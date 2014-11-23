@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="take_selfie">Take selfie</string>
+    <string name="title_activity_main">Daily Selfie</string>
+    <string name="image_description">Selfie</string>
+    <string name="title_activity_view_selfie">ViewSelfieActivity</string>
+    <string name="ticker_text">Time to take a selfie!</string>
+
+</resources>
